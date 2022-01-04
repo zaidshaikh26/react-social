@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-admin/static/css/main.baace200.css",
-    "main.js": "/react-admin/static/js/main.08eaeabd.js",
-    "index.html": "/react-admin/index.html",
-    "main.baace200.css.map": "/react-admin/static/css/main.baace200.css.map",
-    "main.08eaeabd.js.map": "/react-admin/static/js/main.08eaeabd.js.map"
+    "main.css": "/react-social/static/css/main.baace200.css",
+    "main.js": "/react-social/static/js/main.08eaeabd.js",
+    "index.html": "/react-social/index.html",
+    "main.baace200.css.map": "/react-social/static/css/main.baace200.css.map",
+    "main.08eaeabd.js.map": "/react-social/static/js/main.08eaeabd.js.map"
   },
   "entrypoints": [
     "static/css/main.baace200.css",
